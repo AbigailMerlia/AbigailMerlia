@@ -10,7 +10,13 @@
   <img src="https://img.shields.io/badge/CS50-Student-f7d6e0?style=for-the-badge">
   <img src="https://img.shields.io/badge/Python-🧁-ffe3f4?style=for-the-badge">
   <img src="https://img.shields.io/badge/Flask-🍓-f8ced8?style=for-the-badge">
+  <img src="https://img.shields.io/badge/C-💻-fcd5ce?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CSS-🎀-c2e0ff?style=for-the-badge">
+  <img src="https://img.shields.io/badge/JavaScript-✨-fff2b2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SQL-🗄️-d1f7c4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/HTML-🌸-ffd9d9?style=for-the-badge">
 </p>
+
 
 ---
 
