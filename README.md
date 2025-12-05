@@ -25,7 +25,7 @@
 - 🎀 Loves cute and pastel code designs  
 - 💻 I know/learn C, Python, CSS, HTML, Javascript, Flask and SQL
 - ✨ Building a chatbot website currently
-- 🧁 Always exploring new fun projects  
+- 🧁 Loves tutoring  
 
 ---
 
