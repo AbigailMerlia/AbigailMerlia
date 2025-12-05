@@ -15,16 +15,16 @@
 ---
 
 ## 🌸 About Me
-- 🌼 CS50 student from Myanmar  
-- 🎀 Loves cute, pastel, kawaii designs  
-- 💻 Learning Python, JS, HTML/CSS  
-- ✨ Building a chatbot website  
+- 🌼 CS50 student  
+- 🎀 Loves cute and pastel code designs  
+- 💻 I know/learn C, Python, CSS, HTML, Javascript, Flask and SQL
+- ✨ Building a chatbot website currently
 - 🧁 Always exploring new fun projects  
 
 ---
 
 ## 🎀 My Projects
-- 🍓 **Chatbot Website** – Flask + AI + JS  
+- 🍓 **Motivation Website** – Flask + Python + JS  
 - 🧁 **Cute Portfolio Website**  
 - 🌈 **CS50 Problem Sets in Style**  
 - 🎨 **Aesthetic UI Experiments**  
