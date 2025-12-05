@@ -39,7 +39,7 @@
 ---
 
 <p align="center">
-  <img src="https://c.tenor.com/wE9E_WNmwsAAAAAC/kawaii-cute-anime.gif" width="180">
+  <img src="https://via.placeholder.com/180x180/ffcce7/ffcce7.png" width="180" style="border-radius:50%; border:3px solid #ffcce7;">
 </p>
 
 <p align="center">
