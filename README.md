@@ -31,17 +31,6 @@
 
 ---
 
-## 💖 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbigailMerlia&theme=catppuccin_latte&show_icons=true" width="400">
-</p>
-
----
-
-<p align="center">
-  <img src="https://via.placeholder.com/180x180/ffcce7/ffcce7.png" width="180" style="border-radius:50%; border:3px solid #ffcce7;">
-</p>
-
 <p align="center">
   ✨ Thanks for visiting my kawaii corner! ✨
 </p>
