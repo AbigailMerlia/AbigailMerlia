@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">🌸 Hi! I'm Abigail Merlia (≧◡≦) ♡</h1>
-<h3 align="center">CS50 student | Kawaii coder | Pastel lover</h3>
+<h3 align="center">CS50 student | Coder | Tutor</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Coder-Pink-ffcce7?style=for-the-badge">
